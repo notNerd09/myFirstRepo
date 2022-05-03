@@ -21,11 +21,11 @@ int main(){
     printf("\nTotal counter :%d\n",counter);
     // counter = 1 is when the only divisor the the number itself
     if (counter == 1){
-        printf("Bilangan prima");
+        printf("The Integer Is Prime Number");
     }
     else {
     	// the counter is != 0 its mean that there is another divisor execpt the number itself
-        printf("Bilangan adalah bukan bilangan prima");
+        printf("The Integer Is Not Prime Number");
     }
 
     return 0;
