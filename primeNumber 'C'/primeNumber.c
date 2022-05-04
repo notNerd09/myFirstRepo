@@ -15,7 +15,7 @@ int main(){
         	//the counter will increment when the number devisible by some other number
             counter++;
         }
-        //this comment comment u can use to see what number that have been devided
+        //this coment below that u can use to see what number that have been devided by the integer.
 //        printf("%d, ",i);
     }
     printf("\nTotal counter :%d\n",counter);
