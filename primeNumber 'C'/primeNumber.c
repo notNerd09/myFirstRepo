@@ -6,7 +6,6 @@
 // doing another edit in development branch
 // edit in main
 int main(){
-    int a;
     int prime;
     int i;
     int counter = 0;
